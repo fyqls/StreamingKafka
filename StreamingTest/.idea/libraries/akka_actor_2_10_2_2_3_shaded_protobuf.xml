@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="akka-actor_2.10-2.2.3-shaded-protobuf">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/akka-actor_2.10-2.2.3-shaded-protobuf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hadoop-common-2.5.2-transwarp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/job-server-api-0.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kafka_2.10-0.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ngmr-core_2.10-1.1.0-transwarp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ngmr-streaming-kafka_2.10-1.1.0-transwarp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ngmr-streaming_2.10-1.1.0-transwarp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spark-job-server.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/zkclient-0.5-dev.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

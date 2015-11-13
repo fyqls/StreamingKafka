@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MockData:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MockData_jar</output-path>
+    <root id="archive" name="MockData.jar">
+      <element id="module-output" name="MockData" />
+      <element id="extracted-dir" path="$M2_REPO$/net/sf/jopt-simple/jopt-simple/3.2/jopt-simple-3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$M2_REPO$/org/slf4j/slf4j-log4j12/1.7.10/slf4j-log4j12-1.7.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$M2_REPO$/org/slf4j/slf4j-api/1.7.10/slf4j-api-1.7.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$M2_REPO$/com/yammer/metrics/metrics-core/2.2.0/metrics-core-2.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$M2_REPO$/com/101tec/zkclient/0.3/zkclient-0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$M2_REPO$/log4j/log4j/1.2.17/log4j-1.2.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$M2_REPO$/org/apache/kafka/kafka_2.10/0.8.1/kafka_2.10-0.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$M2_REPO$/org/xerial/snappy/snappy-java/1.0.5/snappy-java-1.0.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$M2_REPO$/com/yammer/metrics/metrics-annotation/2.2.0/metrics-annotation-2.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$M2_REPO$/junit/junit/3.8.1/junit-3.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$M2_REPO$/org/scala-lang/scala-library/2.10.1/scala-library-2.10.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$M2_REPO$/jline/jline/0.9.94/jline-0.9.94.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$M2_REPO$/org/apache/zookeeper/zookeeper/3.3.4/zookeeper-3.3.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

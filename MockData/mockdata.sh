@@ -1,0 +1,7 @@
+#!/bin/bash
+
+BROKERLIST=172.16.1.130:9092,172.16.1.131:9092,172.16.1.132:9092
+COUNT=10
+
+TOPIC=test
+java -cp MockData.jar MockData $BROKERLIST $TOPIC $COUNT
